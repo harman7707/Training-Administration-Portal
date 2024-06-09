@@ -73,7 +73,7 @@ Follow these steps to set up and run the project locally:
 
 ## Project Contributors
 
-- Harmanjot Singh
+- Harman Jot Singh
 - Shreya Tiwari
 - Govind Gurawa
 
